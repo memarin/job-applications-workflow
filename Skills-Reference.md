@@ -19,7 +19,7 @@ Each skill owns a specific part of the workflow. Automatic handoffs connect docu
 - **Handoff:** `DO APPLY` starts `cv-writer` with the exact role identifier.
 - **Limit:** A blocked job page requires pasted text. Missing evidence remains visible.
 
-See [Assess a Role](Assess-a-Role).
+See [Assess a Role](Assess-a-Role.md).
 
 ## cv-writer
 
@@ -33,7 +33,7 @@ See [Assess a Role](Assess-a-Role).
 Final `DRAFT` and `BLOCKED` PDFs can still have tracker records. The tracker status does not replace the audit outcome.
 Intermediate renders do not qualify for a final CV record.
 
-See [Create a CV](Create-a-CV).
+See [Create a CV](Create-a-CV.md).
 
 ## log-cv-application
 
@@ -46,7 +46,7 @@ See [Create a CV](Create-a-CV).
 
 A tracker failure does not invalidate a completed CV or interview brief.
 
-See [Track Applications](Track-Applications) and [Maintain the Tracker](Maintain-the-Tracker).
+See [Track Applications](Track-Applications.md) and [Maintain the Tracker](Maintain-the-Tracker.md).
 
 ## job-applications
 
@@ -68,6 +68,6 @@ Programmatic count or JSON output is available when explicitly requested.
 - **Handoff:** Ask `log-cv-application` to link the brief to the existing tracker row.
 - **Limit:** An ambiguous role needs clarification. Unsupported story details require explicit confirmation markers.
 
-See [Prepare for Interviews](Prepare-for-Interviews).
+See [Prepare for Interviews](Prepare-for-Interviews.md).
 
 Process references: each skill's `SKILL.md`; tracker validation and outcomes also follow `entry.py`.

@@ -51,4 +51,4 @@ Private repository wikis require an eligible GitHub plan.
 
 Source: [GitHub: About wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis).
 
-Process references: the five skill definitions and CV audit rules described in [Sources and Instructions](Sources-and-Instructions).
+Process references: the five skill definitions and CV audit rules described in [Sources and Instructions](Sources-and-Instructions.md).

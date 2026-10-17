@@ -68,6 +68,6 @@ Deliver the final PDF with its audit and material gaps.
 The tracker skill records final delivered PDFs, including drafts and blocked CVs. Intermediate renders do not qualify.
 A tracker or viewer failure does not change the audit result.
 
-Next: [Track Applications](Track-Applications).
+Next: [Track Applications](Track-Applications.md).
 
 Process references: `cv-writer` instructions, `cv_customization_prompt.md`, `cv_alignment_scoring.md`, and the PDF helpers.

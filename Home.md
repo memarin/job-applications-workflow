@@ -41,14 +41,14 @@ Tracker searches are read-only. Changes from the stale-record scan require confi
 
 | Page | What the page explains |
 | --- | --- |
-| [Skills Reference](Skills-Reference) | Each skill's purpose, inputs, outputs, relevance, and handoffs |
-| [Sources and Instructions](Sources-and-Instructions) | The role and authority of each source, instruction file, and helper program |
-| [Assess a Role](Assess-a-Role) | Job description archive, evidence, role fit, and apply decisions |
-| [Create a CV](Create-a-CV) | Requirements, claims, PDF checks, independent review, and audit results |
-| [Track Applications](Track-Applications) | New records, status updates, duplicate checks, and receipts |
-| [Prepare for Interviews](Prepare-for-Interviews) | Employer research, evidence maps, gaps, and interview answers |
-| [Maintain the Tracker](Maintain-the-Tracker) | Searches, field updates, and confirmed stale-record changes |
-| [Quality and Privacy](Quality-and-Privacy) | Evidence rules, uncertainty, failure outcomes, and access boundaries |
+| [Skills Reference](Skills-Reference.md) | Each skill's purpose, inputs, outputs, relevance, and handoffs |
+| [Sources and Instructions](Sources-and-Instructions.md) | The role and authority of each source, instruction file, and helper program |
+| [Assess a Role](Assess-a-Role.md) | Job description archive, evidence, role fit, and apply decisions |
+| [Create a CV](Create-a-CV.md) | Requirements, claims, PDF checks, independent review, and audit results |
+| [Track Applications](Track-Applications.md) | New records, status updates, duplicate checks, and receipts |
+| [Prepare for Interviews](Prepare-for-Interviews.md) | Employer research, evidence maps, gaps, and interview answers |
+| [Maintain the Tracker](Maintain-the-Tracker.md) | Searches, field updates, and confirmed stale-record changes |
+| [Quality and Privacy](Quality-and-Privacy.md) | Evidence rules, uncertainty, failure outcomes, and access boundaries |
 
 ## Two separate assessments
 
@@ -61,4 +61,4 @@ An apply recommendation does not mean that the CV is ready. A generated CV does 
 The skills prepare documents and maintain records. Application submission remains a separate user action.
 Cover letters are separate user-requested documents governed by the project instructions. The workflow has no dedicated cover-letter skill.
 
-Process references: the five skill definitions and the source contracts described in [Sources and Instructions](Sources-and-Instructions).
+Process references: the five skill definitions and the source contracts described in [Sources and Instructions](Sources-and-Instructions.md).

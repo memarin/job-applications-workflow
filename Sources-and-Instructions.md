@@ -100,6 +100,6 @@ Private career context does not authorize invented achievements or result metric
 | `entry.py` in the tracker skill | Validate, reconcile, write, read back, and locally commit tracker changes | Keep tracker operations consistent across handoffs and user requests |
 | `md_to_html.py` | Convert the interview Markdown into a self-contained HTML brief | Render the fixed brief structure consistently |
 
-See [Skills Reference](Skills-Reference) for triggers and handoffs.
+See [Skills Reference](Skills-Reference.md) for triggers and handoffs.
 
 Process references: the current skill definitions and the schemas or interfaces declared by the named helpers.

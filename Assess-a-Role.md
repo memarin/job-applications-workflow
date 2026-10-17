@@ -34,6 +34,6 @@ An unknown condition must remain visible in the fit summary.
 The compact result contains the total, verdict, CV variant, flag counts, fit summary, and archived description reference.
 The role-fit score is separate from the later CV quality audit.
 
-Next: [Create a CV](Create-a-CV).
+Next: [Create a CV](Create-a-CV.md).
 
 Process references: `analyze-job` instructions, role-fit matrix, and `create_role_dir.py`.
